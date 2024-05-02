@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+h2{margin-top: 0;}
+/* ! Card */
+article{}
+.spacer{border: 0.5px solid #c1c1c1; margin-bottom: 13px;}
+.price{color: #4fe99c; font-weight: 900;}
+.time{color:red; font-weight: 900;}
+.puntata{text-transform: uppercase;background-color: #00f7ab;border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;}
+.puntata p{font-weight: 900;font-size: 20px;color: #fff;padding: 20px; letter-spacing: 7px;}
+article img{width: 200px;}
+.card{border-radius: 20px; height: auto;width: 300px; margin: 0 auto; box-shadow: 10px -14px 20px rgb(0 0 0 / 7%)}
+.card h3{font-weight: normal}
